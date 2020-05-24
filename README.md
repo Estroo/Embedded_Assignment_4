@@ -3,7 +3,7 @@
 
 ## Step 1
 
-Before everything else, we need to install or update all needed packages using following commands (Ubuntu 64 bits 14.04 and +):
+First, We need to install or update all needed packages using following commands (Ubuntu 64 bits 14.04 and +):
 ```bash
 sudo apt-get update && sudo apt-get upgrade
 sudo apt-get install git-core gnupg flex bison gperf build-essential zip curl zlib1g-dev gcc-multilib g++-multilib libc6-dev-i386 lib32ncurses5-dev x11proto-core-dev libx11-dev lib32z-dev libgl1-mesa-dev libxml2-utils xsltproc unzip
